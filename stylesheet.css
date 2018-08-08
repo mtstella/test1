@@ -1,0 +1,42 @@
+#background{
+	width:1368px;
+	height:912px;
+	background-image: url("img/Home_2@2x.png");
+}
+#background-chat{
+   
+}
+iframe {
+    position: absolute !important;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    top: 40px !important;
+    border: 0;
+    z-index: -1;
+}
+
+#registrazione{
+	margin-left: 502px;
+    margin-top: 457px;
+    width: 360px;
+    height: 325px;
+    //background-color: green;
+    position: absolute;
+}
+
+#checkincheckout{
+	margin-left: 112px;
+    margin-top: 457px;
+    width: 360px;
+    height: 325px;
+    //background-color: green;
+    position: absolute;
+}
+
+
+#backbutton{
+	width:1368px;
+    height: 90px;
+    background-image: url("img/back.png");
+}
